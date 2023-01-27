@@ -1,0 +1,50 @@
+[
+    {
+      "precio": 950,
+      "id": 1,
+      "title": "El Principito",
+      "img": "./img/El-principito.jpg"
+    },
+    {
+      "precio": 1500,
+      "id": 2,
+      "title": "El Gato Negro",
+      "img": "./img/gato-negro.jpg"
+    },
+    {
+      "precio": 800,
+      "id": 3,
+      "title": "Caperusita Roja",
+      "img": "./img/caperusita.jpg"
+    },
+    {
+      "precio": 1200,
+      "id": 4,
+      "title": "Gemagris",
+      "img": "./img/gemagris.jpg"
+    },
+    {
+      "precio": 3500,
+      "id": 5,
+      "title": "Narnia",
+      "img": "./img/Narnia.jpg"
+    },
+    {
+      "precio": 500,
+      "id": 6,
+      "title": "Los Tres Cerditos",
+      "img": "./img/los-3-cerditos.jpg"
+    },
+    {
+      "precio": 1800,
+      "id": 7,
+      "title": "El Silecio De Los Corderos",
+      "img": "./img/silencio.jpg"
+    },
+    {
+      "precio": 2600,
+      "id": 8,
+      "title": "IT",
+      "img": "./img/IT-Plaza-y-Janes.jpg"
+    }        
+  ]
